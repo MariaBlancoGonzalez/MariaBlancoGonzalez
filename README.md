@@ -5,10 +5,7 @@
 </h3>
 
 <p align="center">  
-  <a href="https://twitter.com/Maria_18bg">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Maria_18bg?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/MariaBlancoGonzalez">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/MariaBlancoGonzalez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+![GitHub followers](https://img.shields.io/github/followers/MariaBlancoGonzalez?logo=GitHub&style=social)
 </p>
 
 ## 👨‍💻 Languages and tools
