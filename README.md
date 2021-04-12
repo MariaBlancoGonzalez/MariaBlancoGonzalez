@@ -4,10 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">  
-![GitHub followers](https://img.shields.io/github/followers/MariaBlancoGonzalez?logo=GitHub&style=social)
-</p>
-
 ## 👨‍💻 Languages and tools
 
 <p align="center">
@@ -38,3 +34,11 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MariaBlancoGonzalez's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MariaBlancoGonzalez&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+## ABOUT ME!
+<a href="https://twitter.com/Maria_18bg">
+  <img align="left" alt="Maria Blanco | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/maría-blanco-gonzález-mohíno-08a75620b/">
+  <img align="left" alt="Maria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
