@@ -21,21 +21,16 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary>⚡ GitHub Activity</summary>
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/MariaBlancoGonzalez/github-readme-streak-stats/pull/55) in [MariaBlancoGonzalez/github-readme-streak-stats](https://github.com/MariaBlancoGonzalez/github-readme-streak-stats)
-2. 🗣 Commented on [#55](https://github.com/MariaBlancoGonzalez/github-readme-streak-stats/issues/55) in [MariaBlancoGonzalez/github-readme-streak-stats](https://github.com/MariaBlancoGonzalez/github-readme-streak-stats)
-3. 🗣 Commented on [#54](https://github.com/MariaBlancoGonzalez/github-readme-streak-stats/issues/54) in [MariaBlancoGonzalez/github-readme-streak-stats](https://github.com/MariaBlancoGonzalez/github-readme-streak-stats)
-4. ❗️ Opened issue [#54](https://github.com/MariaBlancoGonzalez/github-readme-streak-stats/issues/54) in [MariaBlancoGonzalez/github-readme-streak-stats](https://github.com/MariaBlancoGonzalez/github-readme-streak-stats)
-<!--END_SECTION:activity-->
-</details>
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MariaBlancoGonzalez's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MariaBlancoGonzalez&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaBlancoGonzalez&show_icons=true&theme=gotham)
+<!--END_SECTION:activity-->
+</details>
 
 ## ABOUT ME!
 <a href="https://twitter.com/Maria_18bg">
