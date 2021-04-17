@@ -35,9 +35,7 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MariaBlancoGonzalez's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MariaBlancoGonzalez&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<p align="center">
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaBlancoGonzalez&show_icons=true&theme=gotham)
- </p>
 
 ## ABOUT ME!
 <a href="https://twitter.com/Maria_18bg">
