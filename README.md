@@ -37,5 +37,3 @@
 <a href="https://www.linkedin.com/in/maría-blanco-gonzález-mohíno-08a75620b/">
   <img align="left" alt="Maria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
 </p>
-<h3 align="left">Connect with me:</h3>
-
