@@ -14,7 +14,7 @@
   <a><img alt="Visual Studio" title="Visual Studio Code" height="36px"
       src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"></a>
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariablancogonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="mariablancogonzalez" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=mariablancogonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="mariablancogonzalez" /> </p>
 </p>
 
 
@@ -31,9 +31,9 @@
 </details>
 
 <h3 align="center"> ABOUT ME!
-<p align="right">
+<p align="center">
 <a href="https://twitter.com/Maria_18bg">
-  <img align="left" alt="Maria Blanco | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> </a>
+  <img align="center" alt="Maria Blanco | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> </a>
 <a href="https://www.linkedin.com/in/maría-blanco-gonzález-mohíno-08a75620b/">
-  <img align="left" alt="Maria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
+  <img align="center" alt="Maria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
 </p>
