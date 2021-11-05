@@ -20,13 +20,18 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <h3 align="center">⚡ GitHub Activity
+  
   <br/>
 
 <!--START_SECTION:activity-->
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MariaBlancoGonzalez's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MariaBlancoGonzalez&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Maria's github activity graph](https://activity-graph.herokuapp.com/graph?username=MariaBlancoGonzalez&theme=gotham)](https://github.com/MariaBlancoGonzalez/github-readme-activity-graph)
 
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaBlancoGonzalez&show_icons=true&theme=gotham)
+![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaBlancoGonzalez&theme=vue-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaBlancoGonzalez&theme=vue-dark)](https://github.com/MariaBlancoGonzalez/github-readme-stats)
+
+
+
 <!--END_SECTION:activity-->
 </details>
 
