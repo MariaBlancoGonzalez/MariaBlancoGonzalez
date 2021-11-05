@@ -25,7 +25,6 @@
 
 <!--START_SECTION:activity-->
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![Maria's github activity graph](https://activity-graph.herokuapp.com/graph?username=MariaBlancoGonzalez&theme=gotham)](https://github.com/MariaBlancoGonzalez/github-readme-activity-graph)
 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaBlancoGonzalez&theme=vue-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaBlancoGonzalez&theme=vue-dark)](https://github.com/MariaBlancoGonzalez/github-readme-stats)
@@ -35,10 +34,8 @@
 <!--END_SECTION:activity-->
 </details>
 
-<h3 align="center"> ABOUT ME!
+<h3 align="center"> Contact Me!
 <p align="center">
-<a href="https://twitter.com/Maria_18bg">
-  <img align="center" alt="Maria Blanco | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> </a>
 <a href="https://www.linkedin.com/in/maría-blanco-gonzález-mohíno-08a75620b/">
   <img align="center" alt="Maria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
 </p>
