@@ -21,7 +21,7 @@
   </a>
 
   <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/mariablancogonzalez/" target="_blank">
+  <a href="https://www.linkedin.com/in/mariablancogonza/" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" 
@@ -35,14 +35,17 @@
 <!-- ======================= -->
 <h2 align="center">GitHub Stats 📊</h2>
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=MariaBlancoGonzalez&theme=vue)](https://github.com/MariaBlancoGonzalez/github-readme-stats-fast)
-[![MariaBlancoGonzalez's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MariaBlancoGonzalez&theme=graywhite)](https://github.com/MariaBlancoGonzalez/github-readme-stats-fast)
+<p align="center">
+  <a href="https://github.com/MariaBlancoGonzalez/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MariaBlancoGonzalez&theme=vue" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/MariaBlancoGonzalez/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=MariaBlancoGonzalez&theme=graywhite" alt="MariaBlancoGonzalez's GitHub stats" />
+  </a>
+</p>
 
-<!-- ======================= -->
-<!-- TECHNOLOGIES -->
-<!-- ======================= -->
 <h2 align="center">Technologies 💻</h2>
 
 <p align="center">
-  <img src="tech_maria.gif" alt="Demo" height="100" width="500"/>
+  <img src="tech_maria.gif" alt="Demo" width="500"/>
 </p>
